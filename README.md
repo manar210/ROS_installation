@@ -1,6 +1,8 @@
 # ROS_installation
 في هذا المشروع تم تثبيت نظام تشغيل الروبوت وتحميل باكيج الذراع الالية عليه
+
 اولا تم تحميل وتثبيت نظام تشغيل الروبوت بالطريقة التاليه
+
 first, download virtual box : https://www.virtualbox.org/wiki/Downloads
 second, install ubuntu : https://releases.ubuntu.com/18.04/
 then, to install ROZ the following commands were followed:
